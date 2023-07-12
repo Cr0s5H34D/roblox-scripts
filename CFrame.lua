@@ -10,7 +10,7 @@ local Button = Instance.new("TextButton")
 
 --Properties:
 
-ScreenGui.Parent = game.CoreGui
+ScreenGui.Parent = gethui()
 
 Main.Name = "Main"
 Main.Parent = ScreenGui
